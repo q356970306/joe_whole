@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World,my name is qiaojinshuai!");
+        System.out.println("Hello World,my name is zhuliqing!");
     }
 }
